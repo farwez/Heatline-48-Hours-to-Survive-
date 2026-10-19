@@ -186,8 +186,8 @@ The campaign spans eight intense narrative phases throughout Vardhan City:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/farwez/Heatline-48-Hours-to-survive-.git
-   cd Heatline-48-Hours-to-survive-
+   git clone https://github.com/farwez/Heatline-48-Hours-to-Survive-.git
+   cd Heatline-48-Hours-to-Survive-
    ```
 
 2. **Install project dependencies**:
