@@ -1,0 +1,58 @@
+[
+  {
+    "id": "mission_1",
+    "title": "The Warning",
+    "hours": "00–03",
+    "district": "Residential Apartment & Old Colony",
+    "objective": "Collect essential supplies and inspect the Old Colony relief cache."
+  },
+  {
+    "id": "mission_2",
+    "title": "The Empty Market",
+    "hours": "03–07",
+    "district": "Market District",
+    "objective": "Scavenge supplies and decide whether to share or retain water."
+  },
+  {
+    "id": "mission_3",
+    "title": "No Power",
+    "hours": "07–13",
+    "district": "Maintenance & Substation",
+    "objective": "Assist Imran with power diagnostic; choose cooling or water priority."
+  },
+  {
+    "id": "mission_4",
+    "title": "The Shelter",
+    "hours": "13–18",
+    "district": "Community Center",
+    "objective": "Deliver relief goods and arbitrate resource distribution with Maya."
+  },
+  {
+    "id": "mission_5",
+    "title": "The Blocked Route",
+    "hours": "18–24",
+    "district": "Transit Corridor",
+    "objective": "Navigate around heatwave barricades to retrieve urgent medicine."
+  },
+  {
+    "id": "mission_6",
+    "title": "Last Water",
+    "hours": "24–32",
+    "district": "Pumping Network",
+    "objective": "Trace municipal pipeline breakdown and secure water for clinic."
+  },
+  {
+    "id": "mission_7",
+    "title": "The Longest Night",
+    "hours": "32–41",
+    "district": "Connected City Sectors",
+    "objective": "Respond to emergency signals and prepare evacuation path."
+  },
+  {
+    "id": "mission_8",
+    "title": "The Last Decision",
+    "hours": "41–48",
+    "district": "Evacuation Terminal",
+    "objective": "Resolve final logistical crisis and determine the city's fate."
+  }
+]

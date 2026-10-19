@@ -1,0 +1,35 @@
+[
+  {
+    "id": "bottled_water",
+    "name": "Bottled Mineral Water (1L)",
+    "category": "consumable",
+    "hydration": 40,
+    "stamina": 10,
+    "weight": 1.0,
+    "description": "Sealed plastic bottle. Crucial for surviving the 45°C Vardhan heatwave."
+  },
+  {
+    "id": "ors_electrolyte",
+    "name": "Oral Rehydration Salts (ORS)",
+    "category": "consumable",
+    "hydration": 60,
+    "stamina": 25,
+    "weight": 0.1,
+    "description": "Electrolyte powder sachet. Rapidly prevents severe dehydration and heat cramps."
+  },
+  {
+    "id": "cloth_mask",
+    "name": "Damp Cotton Bandana",
+    "category": "equipment",
+    "heatResistance": 15,
+    "weight": 0.1,
+    "description": "Protects against fine dust and lowers heat exposure when kept moist."
+  },
+  {
+    "id": "multimeter_tool",
+    "name": "Electrician's Multimeter",
+    "category": "tool",
+    "weight": 0.5,
+    "description": "Handheld tool to diagnose backup power lines and substation relays."
+  }
+]
